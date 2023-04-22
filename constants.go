@@ -13,6 +13,8 @@ const P94115 = "94115"
 const P94103 = "94103"
 const SAN_FRANCISCO = "San Francisco"
 
+const CA = "CA"
+
 const US = "US"
 
 const F10 = 10.00
