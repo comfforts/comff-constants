@@ -1,5 +1,6 @@
 package constants
 
+const P94956 = "94956"
 const P94952 = "94952"
 const PETALUMA = "Petaluma"
 
@@ -12,6 +13,9 @@ const SANTA_CLARA = "Santa Clara"
 const P94115 = "94115"
 const P94103 = "94103"
 const SAN_FRANCISCO = "San Francisco"
+
+const P94002 = "94002"
+const BELMONT = "Belmont"
 
 const CA = "CA"
 
